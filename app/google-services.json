@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1043274494410",
+    "firebase_url": "https://icecreamshop-5eaf2-default-rtdb.firebaseio.com",
+    "project_id": "icecreamshop-5eaf2",
+    "storage_bucket": "icecreamshop-5eaf2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043274494410:android:8ba6e1cab01a0ecf9d1f33",
+        "android_client_info": {
+          "package_name": "com.example.icecreamshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCu8h4V3XfybLZ2wZNIg5W5R3Jx0I5y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
