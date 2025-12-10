@@ -1,7 +1,3 @@
-Here is your **clean, ready-to-copy README.md** file.
-Just **copy → paste** this into your GitHub repository as `README.md`.
-
----
 
 # 🥗 HealthyBite – Diet Food Shopping Cart App (Android | Kotlin)
 
